@@ -1,5 +1,4 @@
 # SOLID Elixir
+This repo is being used as a personal learning environment.
 
-This repository contains the code base which forms the case study for the talk presented at both `Code Beam Lite - (Closing KeyNote) Milan, 2018` and `Elixir EU - Warsaw, 2018`.
-
-See the apps/customer_preference_api for more details.
+For anyone who stumbles upon this, see Georgina's the root repo or her persentation on youtube. https://www.youtube.com/watch?v=eldYot7uxUc
